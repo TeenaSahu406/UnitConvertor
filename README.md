@@ -124,12 +124,3 @@ UnitConverter/
 - Performance optimization
 - Security review of input handling
 
-## License
-This project is licensed under the MIT License - see LICENSE file for details.
-
-## Support
-For technical support or contribution inquiries, please reference the project documentation or create an issue in the project repository.
-
----
-
-*Professional unit conversion solution for accurate measurement transformations*cd /d/JAVAprojects/UnitConvertor
